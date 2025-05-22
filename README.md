@@ -1,0 +1,8 @@
+- ReactJS with CoreUI for frontend development
+- RESTful API tested using Postman
+- Spring Boot and Spring Security for backend development
+- MySQL for database with ORM
+- Other libraries: TalkJS for messaging, Formik for form validation, Redux for state management
+- Use Trello to track user stories within team of 3 members
+- Containerized app on Docker
+- Duration: 4 weeks
